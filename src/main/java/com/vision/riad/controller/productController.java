@@ -13,7 +13,7 @@ public class productController {
 	
 	@RequestMapping("product")
 	public String test() {
-		return "Hello IRISI";
+		return "MHammdi mocaid";
 	}
 	
 	
